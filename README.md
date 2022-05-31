@@ -13,7 +13,7 @@
 - Database
 - HTTP
 - Microservices
-- MQ
+- RabbitMQ
 - Distributed
 - DevOps
 - Security
